@@ -49,6 +49,7 @@ XML, C, 파이썬 등에서 정의된 e-mail 양식에서 개념을 얻어 만�
 따라서 JSON에서 YAML로 마이그레이션 하기가 용이하다.
 
 [YAML | 오늘도 끄적끄적 (perfectacle.github.io)](https://perfectacle.github.io/2018/08/19/yaml/)
+
 [JSON to YAML](https://www.json2yaml.com/)
 
 ```마이그레이션 : 데이터를 한 저장 장치에서 다른 저장 장치로 옮기는 과정```
